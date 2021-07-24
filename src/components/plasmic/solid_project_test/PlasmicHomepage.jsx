@@ -62,29 +62,27 @@ function PlasmicHomepage__RenderFunc(props) {
             <p.Stack
               as={"div"}
               hasGap={true}
-              className={classNames(defaultcss.all, sty.box___9GNgf)}
+              className={classNames(defaultcss.all, sty.freeBox___9GNgf)}
             >
               <p.Stack
                 as={"div"}
                 hasGap={true}
-                className={classNames(defaultcss.all, sty.box__gb0Wk)}
+                className={classNames(defaultcss.all, sty.freeBox__gb0Wk)}
               >
                 <img
                   data-plasmic-name={"solidLogo"}
                   data-plasmic-override={overrides.solidLogo}
                   alt={""}
                   className={classNames(defaultcss.img, sty.solidLogo)}
-                  height={275}
                   role={"img"}
                   src={solidLogopngNyZWsecyk}
-                  width={306}
                 />
 
                 <div
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.box__tvWPl
+                    sty.freeBox__tvWPl
                   )}
                 >
                   {"SOLID"}
@@ -94,7 +92,7 @@ function PlasmicHomepage__RenderFunc(props) {
               <p.Stack
                 as={"div"}
                 hasGap={true}
-                className={classNames(defaultcss.all, sty.box__ax9Ab)}
+                className={classNames(defaultcss.all, sty.freeBox__ax9Ab)}
               >
                 <p.Stack
                   as={"a"}
@@ -112,7 +110,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.box__aBK
+                      sty.freeBox__aBK
                     )}
                   >
                     {"About Solid"}
@@ -142,7 +140,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.box__cHFxR
+                      sty.freeBox__cHFxR
                     )}
                   >
                     {"Developers"}
@@ -172,7 +170,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.box__mMb8
+                      sty.freeBox__mMb8
                     )}
                   >
                     {"Users"}
@@ -202,7 +200,7 @@ function PlasmicHomepage__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.box__k4Xsm
+                      sty.freeBox__k4Xsm
                     )}
                   >
                     {"Community"}
@@ -218,7 +216,7 @@ function PlasmicHomepage__RenderFunc(props) {
               </p.Stack>
 
               {false ? (
-                <div className={classNames(defaultcss.all, sty.box__grg7)}>
+                <div className={classNames(defaultcss.all, sty.freeBox__grg7)}>
                   <button
                     className={classNames(
                       defaultcss.button,
@@ -245,7 +243,7 @@ function PlasmicHomepage__RenderFunc(props) {
                       className={classNames(
                         defaultcss.all,
                         defaultcss.__wab_text,
-                        sty.box__d3PVr
+                        sty.freeBox__d3PVr
                       )}
                     >
                       {"Log in"}
@@ -276,10 +274,8 @@ function PlasmicHomepage__RenderFunc(props) {
               <img
                 alt={""}
                 className={classNames(defaultcss.img, sty.img__lK9Is)}
-                height={89}
                 role={"img"}
                 src={solidBgDarkUisvg1YwBsOVo}
-                width={300}
               />
 
               <p.Stack
@@ -292,22 +288,20 @@ function PlasmicHomepage__RenderFunc(props) {
                 <p.Stack
                   as={"div"}
                   hasGap={true}
-                  className={classNames(defaultcss.all, sty.box__pbdbC)}
+                  className={classNames(defaultcss.all, sty.freeBox__pbdbC)}
                 >
                   <img
                     alt={""}
                     className={classNames(defaultcss.img, sty.img__fYkMc)}
-                    height={275}
                     role={"img"}
                     src={solidLogopngNyZWsecyk}
-                    width={306}
                   />
 
                   <div
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.box__kp7WD
+                      sty.freeBox__kp7WD
                     )}
                   >
                     <span>
@@ -325,7 +319,7 @@ function PlasmicHomepage__RenderFunc(props) {
                 <p.Stack
                   as={"div"}
                   hasGap={true}
-                  className={classNames(defaultcss.all, sty.box__yvNih)}
+                  className={classNames(defaultcss.all, sty.freeBox__yvNih)}
                 >
                   <Button
                     className={classNames("__wab_instance", sty.button__yapX6)}
@@ -338,23 +332,21 @@ function PlasmicHomepage__RenderFunc(props) {
               </p.Stack>
             </div>
 
-            <div className={classNames(defaultcss.all, sty.box___24BMa)}>
-              <div className={classNames(defaultcss.all, sty.box__jlw89)}>
+            <div className={classNames(defaultcss.all, sty.freeBox___24BMa)}>
+              <div className={classNames(defaultcss.all, sty.freeBox__jlw89)}>
                 <img
                   alt={""}
                   className={classNames(defaultcss.img, sty.img__ubMoS)}
-                  height={150}
                   role={"img"}
                   src={solidPodToursvg7TNslkVCc}
-                  width={194}
                 />
 
-                <div className={classNames(defaultcss.all, sty.box__yv87E)}>
+                <div className={classNames(defaultcss.all, sty.freeBox__yv87E)}>
                   <div
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.box__moS4
+                      sty.freeBox__moS4
                     )}
                   >
                     <span>
@@ -383,7 +375,7 @@ function PlasmicHomepage__RenderFunc(props) {
                       className={classNames(
                         defaultcss.all,
                         defaultcss.__wab_text,
-                        sty.box__tOhb
+                        sty.freeBox__tOhb
                       )}
                     >
                       {"Learn More"}

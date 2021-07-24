@@ -6,9 +6,9 @@
   flex-direction: row;
   cursor: pointer;
   position: relative;
+  background: #3298dc;
   border-radius: 4px;
   padding: 9px 20px;
-  background: #3298dc;
   border: 1px solid transparent;
 }
 .root > :global(.__wab_flex-container) {
